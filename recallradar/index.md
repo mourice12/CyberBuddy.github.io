@@ -26,9 +26,7 @@ Read the terms and conditions for using RecallRadar.
 - Product expiry tracking
 
 ## Contact
-- **Email**: support@recallradar.com
-- **Privacy**: privacy@recallradar.com
-- **Website**: https://recallradar.com
+- **Email**: Cyberbuddyps@gmail.com
 - **App**: RecallRadar (Available on App Store and Google Play)
 
 ## Last Updated
