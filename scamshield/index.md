@@ -18,6 +18,9 @@ Learn how we collect, use, and protect your data when you use ScamShield.
 ### [Terms of Service](terms-of-service)
 Read the terms and conditions for using ScamShield.
 
+### [Account Deletion](account-deletion)
+Information on how to delete your ScamShield account and associated data.
+
 ## Contact
 - **Email**: support@scamshield.app
 - **App**: ScamShield (Available on Google Play Store)
